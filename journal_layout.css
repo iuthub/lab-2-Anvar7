@@ -1,0 +1,52 @@
+html
+{
+	background-image: url(background.jpg);
+	background-repeat: repeat;
+}
+.position
+{
+	position: center;
+	margin-right:10%;
+	margin-left:10%;
+}
+.bodycss
+{
+	position: center;
+	margin-right:10%;
+	margin-left:10%;
+	border: 10px white solid;
+	font-family: calibri;
+	color: lightblue;
+	background-color: white;
+	
+}
+	
+.img
+{
+	float: right;
+	clear: left;
+}
+
+.redborder
+{
+	background-color: #A8F0F0; 
+	text-align: right;
+	overflow: hidden;
+}
+
+.purpleborder
+{
+	border-bottom: 2px blue dashed;
+	overflow: hidden;
+
+}
+
+.blueborder
+{
+	margin-top: 10px;
+	padding: 5px;
+	background-color:  #E8FBFB;
+	border: 4px #C2E9E9 solid;
+	overflow: hidden;
+
+}
